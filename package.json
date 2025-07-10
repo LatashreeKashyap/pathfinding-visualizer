@@ -1,5 +1,6 @@
 {
-  "homepage": "https://<Latsshreekashyap>.github.io/<Pathway_Manual>",
+  "homepage": "https://latsshreekashyap.github.io/pathfinding-visualizer",
+
   "name": "pathfinding-visualizer",
   "version": "0.1.0",
   "private": true,
