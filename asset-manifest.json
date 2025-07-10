@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/css/main.2c5f64ff.css",
-    "main.js": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/js/main.d3af395e.js",
-    "static/js/453.5c103d3d.chunk.js": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/js/453.5c103d3d.chunk.js",
-    "index.html": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/index.html",
-    "main.2c5f64ff.css.map": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/css/main.2c5f64ff.css.map",
-    "main.d3af395e.js.map": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/js/main.d3af395e.js.map",
-    "453.5c103d3d.chunk.js.map": "/LatashreeKashyap/pathfinding-visualizer/settings/pages/static/js/453.5c103d3d.chunk.js.map"
+    "main.css": "/pathfinding-visualizer/static/css/main.2c5f64ff.css",
+    "main.js": "/pathfinding-visualizer/static/js/main.d9aafb4f.js",
+    "static/js/453.5c103d3d.chunk.js": "/pathfinding-visualizer/static/js/453.5c103d3d.chunk.js",
+    "index.html": "/pathfinding-visualizer/index.html",
+    "main.2c5f64ff.css.map": "/pathfinding-visualizer/static/css/main.2c5f64ff.css.map",
+    "main.d9aafb4f.js.map": "/pathfinding-visualizer/static/js/main.d9aafb4f.js.map",
+    "453.5c103d3d.chunk.js.map": "/pathfinding-visualizer/static/js/453.5c103d3d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c5f64ff.css",
-    "static/js/main.d3af395e.js"
+    "static/js/main.d9aafb4f.js"
   ]
 }
